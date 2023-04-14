@@ -1,0 +1,274 @@
+body {
+    height: 1500px;
+    background-image: url(../images/download.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div1 {
+    width: 150px;
+    height: 130px;
+    position: absolute; 
+    animation-name: div1;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 1s;
+    border-radius: 50%;
+    background-image: url(../images/download\ \(1\).jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+@keyframes div1 {
+    0% {
+        left: 0;
+    }
+    25% {
+    }
+    50% {
+    }
+    75% {
+    }
+    100% {
+        left: 1300px;
+        width: 100px;
+    }
+}
+
+.div1:hover {
+    animation-play-state: paused ;
+}
+
+.div2 {
+    width: 150px;
+    height: 130px;
+    position: absolute; 
+    animation-name: div2;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 4s;
+    top: 150px;
+    right: 0;
+    border-radius: 50%;
+    background-image: url(../images/download\ \(2\).jpeg);
+    background-position: center;
+    background-size: cover;
+}
+@keyframes div2 {
+    0% {
+        right: 0;
+    }
+    25% {
+    }
+    50% {
+    }
+    75% {
+    }
+    100% {
+        right: 1300px;
+        width: 100px;
+    }
+}
+
+.div2:hover {
+    animation-play-state: paused ;
+}
+.div3 {
+    width: 150px;
+    height: 130px;
+    position: absolute; 
+    animation-name: div3;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 7s;
+    top: 300px;
+    border-radius: 50%;
+    background-image: url(../images/redbull.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+@keyframes div3 {
+    0% {
+        left: 0;
+    }
+    25% {
+    }
+    50% {
+    }
+    75% {
+    }
+    100% {
+        left: 1300px;
+        width: 100px;
+    }
+}
+
+.div3:hover {
+    animation-play-state: paused ;
+}
+.div4 {
+    width: 150px;
+    height: 130px;
+    position: absolute; 
+    animation-name: div4;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 10s;
+    top: 450px;
+    right: 0;
+    border-radius: 50%;
+    background-image: url(../images/sting.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+@keyframes div4 {
+    0% {
+        right: 0;
+    }
+    25% {
+    }
+    50% {
+    }
+    75% {
+    }
+    100% {
+        right: 1300px;
+        width: 100px;
+    }
+}
+.div4:hover {
+    animation-play-state: paused ;
+}
+.div5 {
+    width: 150px;
+    height: 130px;
+    position: absolute; 
+    animation-name: div5;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 13s;
+    top: 600px;
+    border-radius: 50%;
+    background-image: url(../images/powerhorse.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+@keyframes div5 {
+    0% {
+        left: 0;
+    }
+    25% {
+    }
+    50% {
+    }
+    75% {
+    }
+    100% {
+        left: 1300px;
+        width: 100px;
+    }
+}
+.div5:hover {
+    animation-play-state: paused ;
+}
+.div6 {
+    width: 150px;
+    height: 130px;
+    position: absolute; 
+    animation-name: div6;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 16s;
+    top: 750px;
+    right: 0;
+    border-radius: 50%;
+    background-image: url(../images/77\ up.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+@keyframes div6 {
+    0% {
+        right: 0;
+    }
+    25% {
+    }
+    50% {
+    }
+    75% {
+    }
+    100% {
+        right: 1300px;
+        width: 100px;
+    }
+}
+.div6:hover {
+    animation-play-state: paused ;
+}
+.div7 {
+    width: 150px;
+    height: 130px;
+    position: absolute; 
+    animation-name: div7;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 19s;
+    top: 900px;
+    border-radius: 50%;
+    background-image: url(../images/sprite.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+@keyframes div7 {
+    0% {
+        left: 0;
+    }
+    25% {
+    }
+    50% {
+    }
+    75% {
+    }
+    100% {
+        left: 1300px;
+        width: 100px;
+    }
+}
+.div7:hover {
+    animation-play-state: paused ;
+}
+.div8 {
+    width: 150px;
+    height: 130px;
+    position: absolute; 
+    animation-name: div8;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 22s;
+    top: 1050px;
+    right: 0;
+    border-radius: 50%;
+    background-image: url(../images/dew.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+@keyframes div8 {
+    0% {
+        right: 0;
+    }
+    25% {
+    }
+    50% {
+    }
+    75% {
+    }
+    100% {
+        right: 1300px;
+        width: 100px;
+    }
+}
+.div8:hover{
+    animation-play-state: paused ;
+}
